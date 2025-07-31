@@ -12,7 +12,6 @@ I’m passionate about building intelligent, secure, and data-driven systems tha
 - 🛠️ **DevOps & Infrastructure Automation**
 - ⚙️ **C++ Systems Programming**
 
----
 
 ## 🚀 Tech Stack
 
@@ -24,7 +23,6 @@ I’m passionate about building intelligent, secure, and data-driven systems tha
 - **DevOps:** Docker, Git, GitHub Actions, Linux, CI/CD
 - **DB:** PostgreSQL, MySQL, SQLite, MongoDB
 
----
 
 ## 🌟 Featured Projects
 
@@ -37,7 +35,6 @@ I’m passionate about building intelligent, secure, and data-driven systems tha
 
 > ✨ Check out my pinned repositories for more!
 
----
 
 ## 📫 Connect With Me
 
@@ -45,7 +42,6 @@ I’m passionate about building intelligent, secure, and data-driven systems tha
 - [Twitter](https://twitter.com/your-handle)
 - *Personal Portfolio* *(Coming Soon)*
 
----
 
 ## ⚡ A Bit More About Me
 
@@ -54,7 +50,5 @@ I’m passionate about building intelligent, secure, and data-driven systems tha
 - 🛡️ Keen interest in cybersecurity, threat detection, and ethical hacking.
 - 🏆 Goal: Contribute to secure AI systems and build tools that help protect digital infrastructure.
 - 📚 Lifelong learner—currently focusing on MLOps, cloud engineering, and secure software design.
-
----
 
 🟢 *Daily pushing code, learning, breaking, fixing, and building with purpose.*
